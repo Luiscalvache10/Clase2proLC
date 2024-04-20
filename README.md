@@ -8,3 +8,9 @@ creación de repositorios y el manejo de MarkDown
 
 ## referencias
 [Google](https://www.google.com)
+
+
+```python
+def hola_mundo():
+    print("Hola, mundo!")
+```
