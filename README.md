@@ -23,6 +23,6 @@ def hola_mundo():
 
 ## Imágenes
 
-<p align="center">
+<p align="left">
 <img src="./Logos/240242493_4243634579062498_5528752320384952232_n-removebg-preview.png" height="500">
 </p>
